@@ -1,5 +1,5 @@
-# Árvore Balanceada AVL
-
+#  EstruturaDeDadosII
+Atividades árvore binária de busca e árvore balanceada AVL
 
 A árvore balanceada não validou a sequência correta de valores durante a apresentação, pois o código não aceitava a inserção de dois ou mais valores iguais(se era maior, inseria à direita e se era menor inseria à esquerda).
 
